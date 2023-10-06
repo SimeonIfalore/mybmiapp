@@ -7,7 +7,7 @@ st.write(
 # adding images
 from PIL import Image
 
-image = Image.open("C:\\Users\\Simeon\\Downloads\\pexels-kelvin-valerio-617278.jpg")
+image = Image.open("pexels-kelvin-valerio-617278.jpg")
 st.image(image, width=500)
 
 # INPUTING PARAMETERS
